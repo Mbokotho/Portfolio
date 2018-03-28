@@ -1,0 +1,93 @@
+body { font: 12pt "Tahoma", "Arial", sans-serif; }
+.announcement {
+background-color: white;
+color: white;
+background-image: url("https://int.search.myway.com/search/AJimage.jhtml?&n=7848bc45&p2=%5E9N%5Exdm247%5ES25665%5Eza&pg=AJimage&pn=1&ptb=65146132-5122-40D7-BEE1-F9686DB1291D&qs=&searchfor=amzind+technological+wallpapers&si=EAIaIQobChMI9PeGr_-L2gIVzxHTCh1jHAQ8EAEYASAAEgKMJfD_BwE&ss=sub&st=tab&tpr=sbt&trs=wtt&imgs=1p&filter=on&imgDetail=true")
+}
+#announcements {
+/* text inside h2 headings */
+padding: 0em 1em;
+}
+#announcements p {
+border-bottom: 2px solid black;
+font-family: "Courier New";
+font-size: 25px;
+color: black;
+
+}
+
+
+#header p{
+padding-left: 10px;
+}
+#header li {
+padding: 1em;
+display: inline;
+color: white;
+}
+#header a{
+  color: white;
+}
+#header{
+  border: 1px solid black;
+  width: 100%;
+  background-color:black;
+  padding-left: 1em;
+
+}
+
+#Projects{
+background-color: white;
+line-height: 1em;
+overflow: auto;
+width:auto;
+}
+#Projects ul { padding-left: 2em; }
+.firstword
+{ font-size: 32pt; }
+/* first word of h2 headings */
+#Projects h1 {
+  font-family: "Courier New";
+  font-size: 25px;
+  color: black;
+  text-decoration: underline;
+}
+#Projects h2{font-family: "Courier New";
+font-size: 20px;
+color: black;
+text-decoration: underline dotted black;
+padding-left: 20px;
+}
+
+#main {
+border: 2px solid black;
+height: 100%;
+width: 100%;
+}
+#news {
+border: 2px solid black;
+background-color:black;
+width: 100%;
+background-color:black;
+padding-left: 1em;
+
+
+}
+#news ul {
+list-style-type: none;
+padding-left: 0em;
+}
+#news li {
+background-color: #ffffcc;
+border: 3px solid #ffff88;
+margin-bottom: 1em;
+display: inline;
+}
+#news h1{
+font-family: "Courier New";
+font-size: 25px;
+color: white;
+text-decoration: underline;
+background-color:black;
+
+}
