@@ -1,9 +1,9 @@
-body { font: 12pt "Tahoma", "Arial", sans-serif; }
+/*body { font: 12pt "Tahoma", "Arial", sans-serif; }*/
 .announcement {
 background-color: white;
 color: white;
-background-image: url("https://int.search.myway.com/search/AJimage.jhtml?&n=7848bc45&p2=%5E9N%5Exdm247%5ES25665%5Eza&pg=AJimage&pn=1&ptb=65146132-5122-40D7-BEE1-F9686DB1291D&qs=&searchfor=amzind+technological+wallpapers&si=EAIaIQobChMI9PeGr_-L2gIVzxHTCh1jHAQ8EAEYASAAEgKMJfD_BwE&ss=sub&st=tab&tpr=sbt&trs=wtt&imgs=1p&filter=on&imgDetail=true")
 }
+
 #announcements {
 /* text inside h2 headings */
 padding: 0em 1em;
@@ -31,7 +31,7 @@ color: white;
   color: white;
 }
 #header{
-  border: 1px solid #ffcc99;
+  border: 1px solid black;
   width: 100%;
   background-color:black;
   padding-left: 1em;
@@ -105,8 +105,16 @@ padding-left: 0em;
   padding-bottom: 10px;
 }
 
-#Contact h1,h6{
+#Contact h1{
 font-family: "Courier New";
 font-size: 25px;
 color: white;
+text-decoration-line: underline;
+}
+
+#Contact h6 {
+font-family: "Courier New";
+font-size:10px;
+color: white;
+
 }
